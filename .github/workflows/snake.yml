@@ -16,7 +16,11 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Generates the snake animation files
+      # Step 1: Clone the repository so git can push to it
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step 2: Generates the snake animation files
       - name: generate-github-contribution-grid-snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -25,12 +29,21 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      # Deploy using official native actions to avoid Node runtime warnings
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist/
+      # Step 3: Pure Git commands to push the files (No Node.js involved)
+      - name: Commit and Push Snake SVG to Output Branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          
+          # Create and switch to a clean 'output' branch
+          git checkout --orphan output
+          git rm -rf . --cached
+          
+          # Move files out of dist and commit them
+          cp dist/*.svg .
+          git add *.svg
+          git commit -m "Update contribution snake animation" || exit 0
+          
+          # Force push to update the branch
+          git push origin output --force
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4

@@ -1,8 +1,21 @@
-<div align="center">
 
-# Titus Muthuri
+![Welcome Image](image.png)
+
+<div align="center">
+ ### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+ I'M Titus Muthuri,
+ 
 
 ### Full Stack Developer  |  Cybersecurity  |  AI/ML  |  Computer Science
+
+<div align="centre">
+<p align="center">
+<picture><img src="Classic tito logo.jpg" width = 45px align="center"></picture><b></b>
+</p>
+
+<div align="center" width="150">
+  ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
+</div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=100&color=7F5AF0&center=true&vCenter=true&width=750&lines=Computer+Science+Student;;Building+Smart+Solutions+with+Code;Full+Stack+Developer;Cybersecurity+Enthusiast;AI+%26+Machine+Learning;" alt="Typing SVG">
@@ -24,41 +37,27 @@
 
 </div>
 
----
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/user.svg" width="22"> About Me
+<div align="centre">
+   
+</div>
 
-```python
-class TitusMuthuri:
 
-    name = "Titus Muthuri"
-    username = "Titusmuthuri99"
-
-    roles = [
-        "Full Stack Developer",
-        "Cybersecurity Enthusiast",
-        "AI/ML Developer",
-        "Technical Writer"
-    ]
-
-    currently_learning = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Cybersecurity",
-        "Cloud Computing",
-        "Advanced Web Development"
-    ]
-
-    mindset = "Build. Learn. Secure. Innovate."
-
-    mission = """
-    Using technology to solve real-world problems
-    and create opportunities through innovation.
-    """
+## <img src="https://freesvg.org/storage/img/thumb/working.png"> **About Me**
+```javascript
+const Titus= {
+    location: "Meru, Kenya",
+    university: "Tharaka University",
+    company: "Founder & CEO @ The SEL Umbrella",
+    currentFocus: ["AI & Machine Learning", "Full-Stack Development",
+ "Cybersecurity","Cloud Computing", "Building Scalable Solutions"],
+    askMeAbout: ["Web Dev", "AI", "Tech Consulting", "Content Creation"],
+};
 ```
+  
 
 <p>
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/quote-left.svg" width="16">
+  
   Building software, exploring cybersecurity, experimenting with AI,
   and turning ideas into practical solutions.
 </p>
@@ -67,63 +66,7 @@ class TitusMuthuri:
 
 ## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/laptop-code.svg" width="22"> What I Do
 
-<table>
-<tr>
 
-<td width="50%" valign="top">
-
-<h3>
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/code.svg" width="18">
-Full Stack Development
-</h3>
-
-* Responsive Web Applications
-* Python / Django / Flask
-* React & JavaScript
-* PHP
-* SQL & NoSQL Databases
-* REST APIs
-* Authentication & Authorization
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/shield-halved.svg" width="18">
-Cybersecurity
-</h3>
-
-* Vulnerability Assessment
-* Network Security
-* Linux Security
-* Ethical Hacking
-* Secure Application Development
-* Web Security
-* CTFs & Security Labs
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-<h3>
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/brain.svg" width="18">
-AI & Machine Learning
-</h3>
-
-* Machine Learning
-* Computer Vision
-* Predictive Analytics
-* PyTorch
-* TensorFlow
-* Data Processing
-* AI-powered Prediction Systems
-
-</td>
 
 <td valign="top">
 
@@ -305,20 +248,30 @@ Digital systems designed to improve educational institution workflows.
 </table>
 
 ---
+# GitHub Analytics
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Titusmuthuri99&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=00F5D4&text_color=FFFFFF&ring_color=7F5AF0">
 
-# <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/chart-line.svg" width="24"> GitHub Statistics
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titusmuthuri99&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=FFFFFF">
+
+</div>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Titusmuthuri99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=00F5D4&text_color=FFFFFF" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titusmuthuri99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=FFFFFF" height="180">
+<img src="https://streak-stats.demolab.com?user=Titusmuthuri99&hide_border=true&background=0D1117&ring=7F5AF0&fire=00F5D4&currStreakLabel=7F5AF0&sideLabels=FFFFFF&dates=888888">
 
 </div>
 
 ---
 
-# <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/fire.svg" width="22"> Contribution Streak
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Titusmuthuri99&bg_color=0D1117&color=FFFFFF&line=7F5AF0&point=00F5D4&area=true&hide_border=true&custom_title=Titus%20Muthuri%20%E2%80%94%20Contribution%20Activity">
+
+</div>
 
 <div align="center">
 

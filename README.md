@@ -151,103 +151,7 @@ Other Skills
 
 </p>
 
----
 
-# <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/rocket.svg" width="24"> Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/cloud-showers-heavy.svg" width="18">
-Flood Eye
-</h3>
-
-AI-powered flood prediction and early-warning system.
-
-<b>Focus</b>
-
-* Flood prediction
-* Machine Learning
-* Environmental data
-* Location-based prediction
-* Early warning systems
-* Climate resilience
-
-<b>Stack</b>
-
-`Python` `Machine Learning` `Streamlit` `Data Science`
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/face-viewfinder.svg" width="18">
-AI Virtual Classroom Attendance
-</h3>
-
-Privacy-focused AI attendance management system.
-
-<b>Features</b>
-
-* Face recognition
-* Liveness detection
-* Secure student information
-* Real-time dashboard
-* Privacy-aware architecture
-* Attendance analytics
-
-<b>Stack</b>
-
-`Python` `AI/ML` `Computer Vision` `PHP` `JavaScript`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-<h3>
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/seedling.svg" width="18">
-AgriGuard AI
-</h3>
-
-AI-powered agricultural assistant designed to support crop disease detection, yield prediction and agricultural decision-making.
-
-<b>Stack</b>
-
-`Python` `Computer Vision` `Machine Learning` `AI`
-
-</td>
-
-<td valign="top">
-
-<h3>
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/building-columns.svg" width="18">
-Smart Campus Solutions
-</h3>
-
-Digital systems designed to improve educational institution workflows.
-
-<b>Areas</b>
-
-* Attendance automation
-* Student management
-* Academic analytics
-* Secure information systems
-* Mobile applications
-
-</td>
-
-</tr>
-</table>
-
----
 # GitHub Analytics
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Titusmuthuri99&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=00F5D4&text_color=FFFFFF&ring_color=7F5AF0">
 
@@ -299,72 +203,6 @@ Digital systems designed to improve educational institution workflows.
 
 </div>
 
----
-
-# <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/brain.svg" width="22"> Currently Learning
-
-<table align="center">
-<tr>
-
-<td align="center">
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/robot.svg" width="28">
-<br>
-Artificial Intelligence
-</td>
-
-<td align="center">
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/brain.svg" width="28">
-<br>
-Machine Learning
-</td>
-
-<td align="center">
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/shield-halved.svg" width="28">
-<br>
-Cybersecurity
-</td>
-
-<td align="center">
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/cloud.svg" width="28">
-<br>
-Cloud Computing
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/code.svg" width="28">
-<br>
-Full Stack Development
-</td>
-
-<td align="center">
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/database.svg" width="28">
-<br>
-Data Engineering
-</td>
-
-<td align="center">
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/boxes-stacked.svg" width="28">
-<br>
-DevOps
-</td>
-
-<td align="center">
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/network-wired.svg" width="28">
-<br>
-Networking
-</td>
-
-</tr>
-</table>
-
----
-
-
----
 
 # <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/globe.svg" width="22"> Connect With Me
 
@@ -384,6 +222,9 @@ Networking
 
 </p>
 
+
+![github-contribution-grid-snake](https://raw.githubusercontent.com/Titusmuthuri99/<your-repo>/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/Titusmuthuri99/<your-repo>/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ---
 
 <div align="center">

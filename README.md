@@ -5,7 +5,7 @@
 ### Full Stack Developer  |  Cybersecurity  |  AI/ML  |  Computer Science
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=7F5AF0&center=true&vCenter=true&width=750&lines=Building+Smart+Solutions+with+Code;Full+Stack+Developer;Cybersecurity+Enthusiast;AI+%26+Machine+Learning;Python+%7C+Django+%7C+React+%7C+PHP;Computer+Science+Student;Always+Learning.+Always+Building." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=100&color=7F5AF0&center=true&vCenter=true&width=750&lines=Computer+Science+Student;;Building+Smart+Solutions+with+Code;Full+Stack+Developer;Cybersecurity+Enthusiast;AI+%26+Machine+Learning;" alt="Typing SVG">
 </a>
 
 <br>
@@ -19,6 +19,8 @@
 <a href="https://github.com/Titusmuthuri99?tab=repositories">
 <img src="https://img.shields.io/github/stars/Titusmuthuri99?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7F5AF0&logo=github">
 </a>
+
+<p align="center"><a href="https://github.com/getintorj"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 </div>
 

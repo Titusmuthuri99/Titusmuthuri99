@@ -43,7 +43,7 @@
 </div>
 
 
-## <img src="https://freesvg.org/storage/img/thumb/working.png"> **About Me**
+##  **About Me**
 ```javascript
 const Titus= {
     location: "Meru, Kenya",
@@ -57,21 +57,15 @@ const Titus= {
   
 
 <p>
-  
-  Building software, exploring cybersecurity, experimenting with AI,
+   Building software, exploring cybersecurity, experimenting with AI,
   and turning ideas into practical solutions.
 </p>
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/laptop-code.svg" width="22"> What I Do
-
-
-
-<td valign="top">
-
+##  What I Do
 <h3>
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/paintbrush.svg" width="18">
+<img src="https://freesvg.org/storage/img/thumb/working.png">
 Other Skills
 </h3>
 
@@ -83,14 +77,9 @@ Other Skills
 * Linux Administration
 * Hackathons & Innovation
 
-</td>
 
-</tr>
-</table>
 
----
-
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/terminal.svg" width="22"> Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -120,13 +109,13 @@ Other Skills
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma,photoshop">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma,photoshop,rabbitmq">
 
 </p>
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/code-branch.svg" width="22"> Technology Badges
+##  Technology Badges
 
 <p align="center">
 
@@ -152,23 +141,6 @@ Other Skills
 </p>
 
 
-# GitHub Analytics
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Titusmuthuri99&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=00F5D4&text_color=FFFFFF&ring_color=7F5AF0">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titusmuthuri99&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=FFFFFF">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Titusmuthuri99&hide_border=true&background=0D1117&ring=7F5AF0&fire=00F5D4&currStreakLabel=7F5AF0&sideLabels=FFFFFF&dates=888888">
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
@@ -183,28 +155,7 @@ Other Skills
 
 </div>
 
----
-
-# <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/trophy.svg" width="22"> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Titusmuthuri99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1">
-
-</div>
-
----
-
-# <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/chart-area.svg" width="22"> Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Titusmuthuri99&bg_color=0D1117&color=FFFFFF&line=7F5AF0&point=00F5D4&area=true&hide_border=true">
-
-</div>
-
-
-# <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/svgs/solid/globe.svg" width="22"> Connect With Me
+### Connect With Me
 
 <p align="center">
 
@@ -212,20 +163,20 @@ Other Skills
 <img src="https://img.shields.io/badge/GitHub-7F5AF0?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/titus-muthuri/">
 <img src="https://img.shields.io/badge/LinkedIn-00F5D4?style=for-the-badge&logo=linkedin&logoColor=black">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:muthurititus91@gmail.com">
 <img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
 
+### 💭 **Random Dev Quote**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/Titusmuthuri99/<your-repo>/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/Titusmuthuri99/<your-repo>/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
----
 
 <div align="center">
 

@@ -2,8 +2,8 @@
 ![Welcome Image](image.png)
 
 <div align="center">
- ### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
- I'M Titus Muthuri,
+ 
+ ### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'M Titus Muthuri,
  
 
 ### Full Stack Developer  |  Cybersecurity  |  AI/ML  |  Computer Science

@@ -46,7 +46,7 @@
 ##  **About Me**
 ```javascript
 const Titus= {
-    location: "Meru, Kenya",
+    location: "Kitui, Kenya",
     university: "Tharaka University",
     company: "Founder & CEO @ The SEL Umbrella",
     currentFocus: ["AI & Machine Learning", "Full-Stack Development",
